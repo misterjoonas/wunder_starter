@@ -1,0 +1,37 @@
+name = Wunder Starter
+core = 7.x
+description = A starter profile for Wunderkraut developers. Uses Build Kit as base.
+
+; Core
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = text
+
+; Contrib
+dependencies[] = admin
+dependencies[] = admin_menu
+dependencies[] = backup_migrate
+dependencies[] = coder
+dependencies[] = coder_review
+dependencies[] = coffee
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = features
+dependencies[] = libraries
+dependencies[] = pathauto
+dependencies[] = strongarm
+dependencies[] = views
+dependencies[] = views_ui
+
