@@ -1,6 +1,6 @@
 name = Wunder Starter
 core = 7.x
-description = A starter profile for Wunderkraut developers. Uses Build Kit as base.
+description = A starter profile for Wunderkraut developers. Started from Build Kit, but doesn't require it.
 
 ; Core
 dependencies[] = block

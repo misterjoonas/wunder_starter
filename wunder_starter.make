@@ -36,6 +36,9 @@ projects[environment_indicator][subdir] = contrib
 projects[features][subdir] = contrib
 projects[features][version] = 1.0
 
+projects[libraries][version] = 2.0
+projects[libraries][subdir] = contrib
+
 projects[module_filter][version] = 1.7
 projects[module_filter][subdir] = contrib
 
