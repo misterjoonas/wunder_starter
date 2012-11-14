@@ -30,6 +30,7 @@ dependencies[] = devel
 dependencies[] = diff
 dependencies[] = features
 dependencies[] = libraries
+dependencies[] = module_filter
 dependencies[] = pathauto
 dependencies[] = strongarm
 dependencies[] = views
