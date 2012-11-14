@@ -33,6 +33,7 @@ dependencies[] = libraries
 dependencies[] = module_filter
 dependencies[] = pathauto
 dependencies[] = strongarm
+dependencies[] = token
 dependencies[] = views
 dependencies[] = views_ui
 
