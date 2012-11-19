@@ -12,7 +12,7 @@ projects[admin_menu][subdir] = contrib
 projects[backup_migrate][version] = 2.4
 projects[backup_migrate][subdir] = contrib
 
-projects[coder][version] = 1.1
+projects[coder][version] = 1.2
 projects[coder][subdir] = contrib
 
 projects[coffee][version] = 1.0
@@ -51,7 +51,7 @@ projects[strongarm][subdir] = contrib
 projects[token][version] = 1.4
 projects[token][subdir] = contrib
 
-projects[transliteration][version] = 3.0
+projects[transliteration][version] = 3.1
 projects[transliteration][subdir] = contrib
 
 projects[views][version] = 3.5
