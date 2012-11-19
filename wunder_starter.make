@@ -27,7 +27,7 @@ projects[ctools][subdir] = contrib
 projects[devel][version] = 1.3
 projects[devel][subdir] = contrib
 
-projects[diff][version] = 2.0
+projects[diff][version] = 3.2
 projects[diff][subdir] = contrib
 
 projects[environment_indicator][version] = 1.1

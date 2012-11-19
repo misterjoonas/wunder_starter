@@ -17,7 +17,6 @@ dependencies[] = taxonomy
 dependencies[] = text
 
 ; Contrib
-dependencies[] = admin
 dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = backup_migrate
