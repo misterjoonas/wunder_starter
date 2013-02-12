@@ -16,4 +16,4 @@ projects[drupal][patch][995156] = http://drupal.org/files/issues/995156-5_portab
 ; Add wunder_starter to the full Drupal distro build
 projects[wunder_starter][type] = profile
 projects[wunder_starter][download][type] = git
-projects[wunder_starter][download][url] = git://github.com/misterjoonas/wunder_starter.git
+projects[wunder_starter][download][url] = git@mearra.beanstalkapp.com:/wunderstarter.git
