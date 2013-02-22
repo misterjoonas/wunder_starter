@@ -32,6 +32,7 @@ dependencies[] = features
 dependencies[] = libraries
 dependencies[] = module_filter
 dependencies[] = pathauto
+dependencies[] = search_krumo
 dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = views

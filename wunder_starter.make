@@ -45,6 +45,9 @@ projects[module_filter][subdir] = contrib
 projects[pathauto][version] = 1.2
 projects[pathauto][subdir] = contrib
 
+projects[search_krumo][version] = 1.3
+projects[search_krumo][subdir] = contrib
+
 projects[strongarm][version] = 2.0
 projects[strongarm][subdir] = contrib
 
