@@ -28,6 +28,7 @@ dependencies[] = context_ui
 dependencies[] = ctools
 dependencies[] = devel
 dependencies[] = diff
+dependencies[] = fasttoggle
 dependencies[] = features
 dependencies[] = libraries
 dependencies[] = module_filter

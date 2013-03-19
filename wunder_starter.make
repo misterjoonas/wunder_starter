@@ -33,6 +33,9 @@ projects[diff][subdir] = contrib
 projects[environment_indicator][version] = 1.1
 projects[environment_indicator][subdir] = contrib
 
+projects[fasttoggle][version] = 1.2
+projects[fasttoggle][subdir] = contrib
+
 projects[features][version] = 1.0
 projects[features][subdir] = contrib
 
